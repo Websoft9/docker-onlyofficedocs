@@ -79,7 +79,7 @@ You should modify ports at [docker-compose file](docker-compose-production.yml) 
 
 ### Usage instructions
 
-You can point your browser to: *`http://Instance's Internet IP:9003`*  
+You can point your browser to: *`http://Instance's Internet IP:9002`*  
 
 The following is the information that may be needed during use
 
@@ -87,7 +87,7 @@ The following is the information that may be needed during use
 
 | Service | Port | Use |  Necessity |
 | --- | --- | --- | --- |
-| onlyoffice-docs | 9003 | Access ONLYOFFICE Docs by brower | Y |
+| onlyoffice-docs | 9002 | Access ONLYOFFICE Docs by brower | Y |
 ## Documentation
 
 [ONLYOFFICEDocs Administrator Guide](https://support.websoft9.com/docs/onlyofficedocs)

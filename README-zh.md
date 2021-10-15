@@ -86,7 +86,7 @@ sudo docker-compose -f docker-compose.yml --env-file .env up -d
 
 ### 使用说明
 
-启动应用后，本地浏览器访问 URL: *`http://服务器公网IP:9003`* 进入应用。  
+启动应用后，本地浏览器访问 URL: *`http://服务器公网IP:9002`* 进入应用。  
 
 下面是使用过程中可能需要的信息
 
@@ -94,7 +94,7 @@ sudo docker-compose -f docker-compose.yml --env-file .env up -d
 
 | 名称 | 端口号 | 用途 |  必要性 |
 | --- | --- | --- | --- |
-| onlyoffice-docs | 9003 | 浏览器访问 ONLYOFFICE Docs | Y |
+| onlyoffice-docs | 9002 | 浏览器访问 ONLYOFFICE Docs | Y |
 ## 文档
 
 [ONLYOFFICEDocs 管理员手册](https://support.websoft9.com/docs/onlyofficedocs)
