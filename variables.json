@@ -17,7 +17,7 @@
   "services":[
     {
       "name": "onlyoffice-docs",
-      "port": "9003",
+      "port": "9002",
       "description_cn": "浏览器访问 ONLYOFFICE Docs",
       "description_en": "Access ONLYOFFICE Docs by brower",
       "required": "Y"
