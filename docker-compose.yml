@@ -4,7 +4,7 @@
 
 version: '3.8'
 services:     
-  onlyoffice-document-server:
+  onlyofficedocs:
     container_name: ${APP_NAME}
     image: onlyoffice/documentserver:${APP_VERSION}
     stdin_open: true
